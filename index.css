@@ -1,0 +1,64 @@
+white_col{
+	color: white;
+}
+
+.ul:hover {
+	text-decoration: underline;
+}
+
+.img1{
+	height:100%;
+}
+
+.chat{
+	width:6rem;
+	height:6rem;
+	border-radius: 50%;
+}
+
+.pp{
+	border-radius: 50%;
+	height: 15rem;
+	width: 15rem;
+}
+
+.center{
+	margin-left: 35%;
+}
+
+.name{
+	margin-left: 2%;
+}
+
+.name1{
+	color: black;
+	background-color: white;
+	text-decoration: none;
+}
+
+.bground{
+	background-image: url(wallpaper.jpg)
+}
+
+.wallpaper{
+	height: 100%;
+	width: 100%;
+}
+
+.first{
+	background-color: #44eda4;
+	float: left;
+	font-size: 22px;
+	border-radius: 5px;
+	margin: 10px;
+}
+
+.second{
+	background-color: white;
+	float: right;
+	font-size: 22px;
+	border-radius: 5px;
+	margin: 2px;
+}
+
+
